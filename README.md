@@ -254,3 +254,8 @@ It'll just be listed under the boxen org so folks can find it more easily.
 ## Halp!
 
 Use Issues or #boxen on irc.freenode.net.
+=======
+My-Boxen
+========
+
+Boxen
